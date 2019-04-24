@@ -14,4 +14,4 @@ Steps:
 File deails:
 It contains two python files od2new.py and obcord.py
 1. od2new.py detects human being and written human detected video and its details in csv.
-2. od2new.py takes human detected video file details in csv format and computes body language score.
+2. od2new.py takes human detected details in csv format and computes body language score based on that.
